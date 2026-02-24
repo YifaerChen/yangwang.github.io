@@ -1,4 +1,4 @@
-Story by HTML5 UP
+杨旺的零基础做的网站，通过AI零基础也可以做网站，谢谢大家 我会继续努力的
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
@@ -34,4 +34,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
+
 		Responsive Tools (github.com/ajlkn/responsive-tools)
